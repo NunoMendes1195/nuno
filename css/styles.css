@@ -1,0 +1,74 @@
+.top-container {
+    background-color: #5f939a;
+    position: relative;
+    padding-top: 100px;
+    margin: 0 0 50px 0;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 5.625rem;
+    color: #3c415c;
+}
+
+h2 {
+    font-family: 'Hind', sans-serif;
+    font-size: 2.5rem;
+    color: #3c415c;
+}
+
+h3 {
+    font-family: 'Hind', sans-serif;
+    font-size: 1.875rem;
+    margin: 0 auto auto auto;
+    color: #3c415c;
+    font-weight: normal;
+
+}
+
+p {
+    font-family: 'Hind', sans-serif;
+    font-size: 1.25rem;
+
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 450px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 450px;
+}
+
+.images_circular {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+
+}
